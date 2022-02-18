@@ -18,5 +18,6 @@ public class TesteEmpregado {
         System.out.println(e1.calcularSalario());
         System.out.println(e2.calcularSalario());
         System.out.println(e3.calcularSalario());
+
     }
 }
